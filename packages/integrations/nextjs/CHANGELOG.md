@@ -6,6 +6,12 @@
 
 
 
+
+## 1.1.1
+<sub>2026-05-22</sub>
+
+- [#708](https://github.com/dmno-dev/varlock/pull/708) - next-env-compat improvements
+
 ## 1.1.0
 <sub>2026-05-02</sub>
 
